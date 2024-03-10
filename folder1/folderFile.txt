@@ -1,3 +1,1 @@
 this is folder file, which is located under folder1
-
-hello xyz,
